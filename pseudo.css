@@ -1,0 +1,38 @@
+h1:hover {
+    color: aquamarine;
+    background-color: blueviolet;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.middle-person:focus {
+    color: blue;
+    font-weight: 700;
+}
+
+a:visited {
+    color: red;
+}
+
+li:last-child {
+    color: chocolate;
+    background-color: brown;
+}
+
+li:first-child {
+    color: blueviolet;
+}
+
+li:nth-child(2n) {
+    color: rgb(62, 43, 228);
+}
+
+h3::before {
+    content: 'hello ';
+}
+
+h3::after {
+    content: ' gelo';
+    background-color: blanchedalmond;
+    font-size: 20px;
+}

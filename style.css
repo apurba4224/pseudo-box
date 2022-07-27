@@ -1,0 +1,28 @@
+h1 {
+    background-color: brown;
+    border: 35px solid rebeccapurple;
+
+}
+
+h2 {
+    background-color: #21d8d8;
+}
+
+p {
+    background-color: azure;
+}
+
+span {
+    background-color: rgb(20, 190, 190);
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
+
+div {
+    background-color: lightcoral;
+    width: 300px;
+    height: 250px;
+    padding-top: 35px;
+    margin-top: 50px;
+}
